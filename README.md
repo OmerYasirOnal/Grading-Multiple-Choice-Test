@@ -1,2 +1,2 @@
 # Grading-Multiple-Choice-Test
-This is my homework
+This is my first project
